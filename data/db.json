@@ -22,13 +22,23 @@
     },
     {
       "id": 6,
-      "checked": false,
+      "checked": true,
       "item": "suger"
     },
     {
       "id": 7,
       "checked": true,
       "item": "cocopowder"
+    },
+    {
+      "id": 8,
+      "checked": false,
+      "item": "curd"
+    },
+    {
+      "id": 9,
+      "checked": false,
+      "item": "brown bread"
     }
   ]
 }
