@@ -24,6 +24,11 @@
       "id": 6,
       "checked": false,
       "item": "suger"
+    },
+    {
+      "id": 7,
+      "checked": true,
+      "item": "cocopowder"
     }
   ]
 }
