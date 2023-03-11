@@ -19,6 +19,11 @@
       "id": 5,
       "checked": true,
       "item": "butter"
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "item": "suger"
     }
   ]
 }
